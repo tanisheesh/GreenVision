@@ -63,7 +63,7 @@ def call_minimax_ai(prompt_messages):
         # Make API call
         completion = client.chat.completions.create(
             extra_headers={
-                "HTTP-Referer": "https://github.com/tanishpoddar/GreenVision",
+                "HTTP-Referer": "https://github.com/tanisheesh/GreenVision",
                 "X-Title": "GreenVision NDVI Analysis",
             },
             model="minimax/minimax-m2:free",
@@ -365,7 +365,7 @@ footer_html = '''
 </style>
 <div class="footer">
     Made with ❤️ by
-    <a href="https://github.com/tanishpoddar" target="_blank">Tanish Poddar</a>,
+    <a href="https://github.com/tanisheesh" target="_blank">Tanish Poddar</a>,
     <a href="https://github.com/MPranaviReddy" target="_blank">Pranavi Reddy</a>, and
     <a href="https://github.com/Zahraaabidha" target="_blank">Aabidha Zahra</a>
 </div>

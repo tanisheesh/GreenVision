@@ -27,7 +27,7 @@
 
 ### 1. Clone the Repository
 ```
-git clone https://github.com/tanishpoddar/GreenVision.git
+git clone https://github.com/tanisheesh/GreenVision.git
 ```
 ```
 cd GreenVision
